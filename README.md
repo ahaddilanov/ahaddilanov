@@ -40,11 +40,11 @@ Driven high school student pursuing an entry-level position, internship, or coll
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
-## 🏆 Certifications & Badges
+## 🏆 Certifications & Credentials
 
 | Credential | Issuing Authority | Date | Verification |
 | :--- | :--- | :--- | :--- |
-| **Python Essentials 1** | Cisco Networking Academy & Python Institute | Sep 2025 | [Official Certificate](https://www.netacad.com/certificates/?issuanceId=e9873321-fcdc-40a4-9ec8-18eb328b38f3) |
+| **Python Essentials 1** | Cisco Networking Academy & Python Institute | Sep 2025 | [Verify Certificate](YOUR_CERTIFICATE_LINK_HERE) \| [Verify Badge](YOUR_BADGE_LINK_HERE) |
 
 
 
