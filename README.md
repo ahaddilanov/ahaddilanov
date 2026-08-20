@@ -15,12 +15,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| File Integrity Monitoring & Cryptographic Hashing | <a href="https://github.com/ahaddilanov/file-integrity-monitor">File Integrity Monitor</a>|
 
 ## Tools & Technologies I'm Learning
 
@@ -45,9 +40,10 @@ Driven high school student pursuing an entry-level position, internship, or coll
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
-## Certifications & Training
+## Certifications & Training(currently working on these ones. haven't got any of them yet. progress...)
 
 <div>
+
   <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20(In%20Progress)-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -59,4 +55,9 @@ Driven high school student pursuing an entry-level position, internship, or coll
 
 ## Projects
 
-*Currently focusing on core concepts and coursework. Practical projects will be documented here as they are developed.*
+### 🔒 File Integrity Monitor
+A Python security tool that detects unauthorized file changes using SHA-256 cryptographic hashing, with a custom Tkinter GUI. Generates a baseline fingerprint of a directory, then compares future scans against it to flag modified, new, or deleted files — the same core technique used by tools like Tripwire and OSSEC.
+
+**Skills demonstrated:** File integrity monitoring, cryptographic hashing, Python scripting, GUI development
+
+🔗 [View on GitHub](https://github.com/ahaddilanov/file-integrity-monitor)
