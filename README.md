@@ -13,7 +13,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
 ## Skills
 
 
-| Skill                                         | Associated Project         |
+| Skill                                         | My Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring & Cryptographic Hashing | <a href="https://github.com/ahaddilanov/file-integrity-monitor">File Integrity Monitor</a>|
 
@@ -40,7 +40,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
-## 🏆 Certifications & Credentials
+## 🏆 Certifications & Badges
 
 | Credential | Issuing Authority | Date | Verification |
 | :--- | :--- | :--- | :--- |
