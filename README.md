@@ -40,18 +40,14 @@ Driven high school student pursuing an entry-level position, internship, or coll
   <a href="https://www.elastic.co/" target="_blank"><img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
-## Certifications & Training(currently working on these ones. haven't got any of them yet. progress...)
+## 🏆 Certifications & Credentials
 
-<div>
+| Credential | Issuing Authority | Date | Verification |
+| :--- | :--- | :--- | :--- |
+| **Python Essentials 1** | Cisco Networking Academy & Python Institute | Sep 2025 | [Official Certificate](https://www.netacad.com/certificates/?issuanceId=e9873321-fcdc-40a4-9ec8-18eb328b38f3) |
 
-  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20(In%20Progress)-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" /></a>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+
 
 ## Projects
 
