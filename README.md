@@ -44,7 +44,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
 ## 🏆 Certifications & Credentials
 | Credential | Issuing Authority | Date | Verification |
 | :--- | :--- | :--- | :--- |
-| **Python Essentials 1** | Cisco Networking Academy & Python Institute | Sep 2025 | [Certificate PDF](./certificates/python-essentials-1-certificate.pdf) \| [Badge](https://www.credly.com/badges/434ac58a-cec7-4ae8-9b2a-bfa0c555fc0f) |
+| **Python Essentials 1** | Cisco Networking Academy & Python Institute | Sep 2025 | [Certificate PDF](./python-essentials-1-certificate.pdf) \| [Badge](https://www.credly.com/badges/434ac58a-cec7-4ae8-9b2a-bfa0c555fc0f) |
 
 
 
