@@ -58,3 +58,12 @@ A Python security tool that detects unauthorized file changes using SHA-256 cryp
 **Skills demonstrated:** File integrity monitoring, cryptographic hashing, Python scripting, GUI development
 
 🔗 [View on GitHub](https://github.com/ahaddilanov/file-integrity-monitor)
+
+***
+
+### 🪵 Log Analyzer
+A Python security tool that automates the ingestion and evaluation of system, network, and application logs to detect malicious activity. Extracts critical attributes like timestamps, IP addresses, and event IDs to establish a behavioral baseline, then triggers real-time alerts for security anomalies, brute-force patterns, and unauthorized access attempts — the same core technique used by enterprise SIEM systems and SOC analysts.
+
+**Skills demonstrated:** Log forensics, SIEM operations, regular expressions (RegEx), automated threat detection
+
+🔗 [View on GitHub](https://github.com/ahaddilanov/log-analyzer)
