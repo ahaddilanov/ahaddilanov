@@ -16,6 +16,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
 | Skill                                         | My Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring & Cryptographic Hashing | <a href="https://github.com/ahaddilanov/file-integrity-monitor">File Integrity Monitor</a>|
+| Log Forensics & SIEM Operations | <a href="https://github.com/ahaddilanov/log-analyzer">Log Analyzer</a>|
 
 ## Tools & Technologies I'm Learning
 
