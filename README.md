@@ -17,6 +17,7 @@ Driven high school student pursuing an entry-level position, internship, or coll
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring & Cryptographic Hashing | <a href="https://github.com/ahaddilanov/file-integrity-monitor">File Integrity Monitor</a>|
 | Log Forensics & SIEM Operations | <a href="https://github.com/ahaddilanov/log-analyzer">Log Analyzer</a>|
+| Password Entropy Analysis & Secure Hashing | <a href="https://github.com/ahaddilanov/cipher-strength">CipherStrength</a>|
 
 ## Tools & Technologies I'm Learning
 
@@ -67,3 +68,12 @@ A Python security tool that automates the ingestion and evaluation of system, ne
 **Skills demonstrated:** Log forensics, SIEM operations, regular expressions (RegEx), automated threat detection
 
 🔗 [View on GitHub](https://github.com/ahaddilanov/log-analyzer)
+
+***
+
+### 🔐 CipherStrength
+A Python password strength checker that uses entropy calculation — not simplistic rule-checking — to measure true guessability, and checks passwords against a known-leaked list entirely offline via SHA-256 hash comparison, never transmitting the plain-text password.
+
+**Skills demonstrated:** Entropy-based cryptographic analysis, secure hash comparison, Python scripting, GUI development
+
+🔗 [View on GitHub](https://github.com/ahaddilanov/cipher-strength)
